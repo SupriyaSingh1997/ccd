@@ -49,10 +49,25 @@ It generates a stats summary for the columns in the DataFrame. The mean, standar
 ### 4.3. Analysis of different variables
 ### 4.3.1. Analysing the customers based on their Education 
 
+![image](https://github.com/SupriyaSingh1997/ccd/assets/128996364/c9ede6de-1f75-4b28-8951-d4d078667c7f)
+
+
 ### 4.3.2. Analysing the age of the customers
+
+![image](https://github.com/SupriyaSingh1997/ccd/assets/128996364/bfaea9f6-b45b-4f87-9263-d43ccab3ad1f)
+
+### 4.3.2. Analysing the Limit Balance of the customers
+![image](https://github.com/SupriyaSingh1997/ccd/assets/128996364/440fc05f-f878-48cd-97dc-859b25a57341)
+
 ### 4.3.3. Analysing the Marital status of the customers
 
+![image](https://github.com/SupriyaSingh1997/ccd/assets/128996364/9ccd7c9d-35d6-4a40-be4b-af6cb4544e77)
+
 ### 4.3.4. Analysing the Gender of the customers
+
+![image](https://github.com/SupriyaSingh1997/ccd/assets/128996364/564bd8d3-eefa-45b4-87e2-6e95c177d96e)
+
+
 
 ## 5. Training the models 
 ### 5.1. Fitting different models 
