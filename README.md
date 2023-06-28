@@ -65,7 +65,7 @@ It generates a stats summary for the columns in the DataFrame. The mean, standar
 
 ### 4.3.4. Analysing the Gender of the customers
 
-![image](https://github.com/SupriyaSingh1997/ccd/assets/128996364/564bd8d3-eefa-45b4-87e2-6e95c177d96e)
+![image](https://github.com/SupriyaSingh1997/ccd/assets/128996364/2291fb79-7192-42c2-b156-da5e9c6c1a61)
 
 
 
