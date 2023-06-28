@@ -1,8 +1,22 @@
 # Credit Card Defaulter Prediction
 
+# Overview:
+In present day majority of people are using credit card for online shopping, EMI payments. Moreover banks are encouraging customers to use it by approving them freely without any initial charges. Becausecredit card interest income is the major share of profit for all commercial banks. Even if customers are not willing to buy, bank marketing team reaches out through phone call to sell it. At first the interest rate are normal to grope the customer into the practice of using it, later they will levy charges on everything to loot money from the customers. Due to this reason many customers are facing difficulty in repaying the
+credit amount on time. If they missed the deadline the interest rate will get multiplied leading to defaulting the account if left unpaid even for a short span of time. The model we are going to build will consider all inputs from user to predict whether the account will be defaulted or not based on various
+parameters.
+
+![image](https://github.com/SupriyaSingh1997/ccd/assets/128996364/06346ea7-e5e5-49d7-9f80-6713f4a1eb8b)
+
 ## 1. Understanding the Problem Statement: 
 
 The goal of this study is to identify credit card users who are more likely to experience a payment default in the upcoming month. Many organisations that issue credit cards are developing predictive models that will enable them to anticipate a customer's payment status using the customer's credit score, credit history, payment history, and other data. The goal of this research is to estimate the likelihood that a specific client would go into default the following month utilising personal and financial data about the consumer, such as credit line, age, repayment history, and delinquency history for the previous six months. To create a binary predictive model, numerous statistical and data mining approaches will be employed. It will be easier for credit card issuing corporations to pursue specific clients, make strategic efforts to avert defaults, and effectively offset future losses if they are able to accurately identify the impending default of customers in advance. In any case, the material does not explicitly identify any specific person or offer details that could be used to decrypt a connection to a specific person. The goal of this study is to forecast the likelihood that credit card users will become indebted in the following month using payment information from October 2015 to March 2016. Out of the 30,000 observations overall,The binary variable for default payment in April 2016 (Yes = 1, No = 0) must be determined.
+
+## 1.1 Proposed Solution
+The proposed model will be capable of studying customers based on various parameters like
+gender, education qualification, marital status, previous repayment history and current outstanding
+balance. Based on that it can predict the account default status in advance and notify the respective
+bank official for further action.
+
 
 ## 2. Data Pre-processing: 
 
