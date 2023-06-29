@@ -89,6 +89,11 @@ In other words, the financial institution should equally take into account wheth
 We have reached a maximum accuracy of 82% in predicting whether a person will default on their credit card after investigating, altering, and testing several models on the credit card default data set.
 Ultimately, it was impossible to determine which model performed the best when attempting to forecast whether or not a person will default on a credit card based just on the accuracy scores of each model. One may observe how closely all these accuracy scores fall in the graph above. In reality, the Random Forest appears to perform the best based just on the accuracy scores.
 
+### Glimpse of Final Output:
+
+![image](https://github.com/SupriyaSingh1997/ccd/assets/128996364/98f050d8-fe73-4e03-b58c-f281eb22a56f)
+
+
 ## 7. References
 - Principal Component Analysis, Wikipedia Page, https://en.wikipedia.org/wiki/Principal_component_analysis
 - RandomForrestClassifier, http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
